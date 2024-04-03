@@ -1,0 +1,2 @@
+Código: 505, Nome: bike, Descrição: baby, Quantidade: 200, Preço: 161.0, Marca: Kalf, Modelo: pequeno
+Código: 78, Nome: peixe, Descrição: fresco[, Quantidade: 5, Preço: 80.0, Data de Validade: 2024-04-13
